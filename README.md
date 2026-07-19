@@ -20,6 +20,7 @@ Instructions the agent follows.
 | Skill | Description |
 |-------|-------------|
 | [writing-style](skills/writing-style/) | Personal writing style guide — load when writing articles or polishing content to keep tone consistent. |
+| [roll-dice](skills/roll-dice/) | Roll dice (d6, d20, etc.) using a random number generator. Ships with a `roll.sh` script. |
 
 ## Usage
 
