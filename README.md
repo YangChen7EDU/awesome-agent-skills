@@ -17,7 +17,9 @@ Instructions the agent follows.
 
 ## Skills
 
-_Coming soon._
+| Skill | Description |
+|-------|-------------|
+| [writing-style](skills/writing-style/) | Personal writing style guide — load when writing articles or polishing content to keep tone consistent. |
 
 ## Usage
 
